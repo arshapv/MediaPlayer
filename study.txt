@@ -1,0 +1,3 @@
+ npm init -y   :used to create a json file
+ npm i json-server@0.17.4    :used to load packages
+npx json-server db.json   :used to run json file

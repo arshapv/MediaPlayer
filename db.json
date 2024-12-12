@@ -1,0 +1,126 @@
+{
+  "allVideos": [
+    {
+      "captions": "Vazha",
+      "imageUrl": "https://keralakaumudi.com/web-news/2024/06/NMAN0501912/image/vazha-movie.1.2746968.jpg",
+      "youtubeUrl": "https://www.youtube.com/embed/rFgS10V8908",
+      "id": 7
+    },
+    {
+      "captions": "ARM",
+      "imageUrl": "https://images.alphacoders.com/441/thumb-1920-441809.jpg",
+      "youtubeUrl": "https://www.youtube.com/embed/EdsxhVLDLb4",
+      "id": 8
+    },
+    {
+      "captions": "ARM",
+      "imageUrl": "https://qntechhub.com/wp-content/uploads/2024/11/Qntechhub-nov-26-2-860x450.jpg",
+      "youtubeUrl": "https://www.youtube.com/embed/EdsxhVLDLb4",
+      "id": 9
+    }
+  ],
+  "category": [
+    {
+      "id": 1,
+      "categoryName": "Films",
+      "allVideos": []
+    },
+    {
+      "id": 2,
+      "categoryName": "Songs",
+      "allVideos": [
+        {
+          "captions": "Vazha",
+          "imageUrl": "https://keralakaumudi.com/web-news/2024/06/NMAN0501912/image/vazha-movie.1.2746968.jpg",
+          "youtubeUrl": "https://www.youtube.com/embed/EdsxhVLDLb4",
+          "id": 10
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "categoryName": "Short Films",
+      "allVideos": []
+    }
+  ],
+  "watchHistory": [
+    {
+      "captions": "avatar",
+      "youtubeUrl": "https://www.youtube.com/embed/JZ-JSZPoUi0",
+      "formatedDate": "12/5/2024, 2:08:43 PM",
+      "id": 2
+    },
+    {
+      "captions": "Pushpa",
+      "youtubeUrl": "https://www.youtube.com/embed/Tr2MvMBLU8A",
+      "formatedDate": "12/5/2024, 2:08:53 PM",
+      "id": 3
+    },
+    {
+      "captions": "Pushpa",
+      "youtubeUrl": "https://www.youtube.com/embed/Tr2MvMBLU8A",
+      "formatedDate": "12/6/2024, 2:09:59 PM",
+      "id": 4
+    },
+    {
+      "captions": "Pushpa",
+      "youtubeUrl": "https://www.youtube.com/embed/Tr2MvMBLU8A",
+      "formatedDate": "12/6/2024, 2:29:47 PM",
+      "id": 5
+    },
+    {
+      "captions": "Pushpa",
+      "youtubeUrl": "https://www.youtube.com/embed/Tr2MvMBLU8A",
+      "formatedDate": "12/10/2024, 1:51:00 PM",
+      "id": 6
+    },
+    {
+      "captions": "ARM",
+      "youtubeUrl": "https://www.youtube.com/embed/sudjm_tz5Fc",
+      "formatedDate": "12/10/2024, 3:21:09 PM",
+      "id": 7
+    },
+    {
+      "captions": "Sookshma Dharshini",
+      "youtubeUrl": "https://www.youtube.com/embed/JZ-JSZPoUi0",
+      "formatedDate": "12/10/2024, 3:25:55 PM",
+      "id": 8
+    },
+    {
+      "captions": "Vazha",
+      "youtubeUrl": "https://www.youtube.com/embed/IrkfzvO9LkE",
+      "formatedDate": "12/10/2024, 7:30:14 PM",
+      "id": 9
+    },
+    {
+      "captions": "Vazha",
+      "youtubeUrl": "https://www.youtube.com/embed/rFgS10V8908",
+      "formatedDate": "12/12/2024, 1:49:22 PM",
+      "id": 10
+    },
+    {
+      "captions": "Sookshma Dharshini",
+      "youtubeUrl": "https://www.youtube.com/embed/EdsxhVLDLb4",
+      "formatedDate": "12/12/2024, 1:50:00 PM",
+      "id": 11
+    },
+    {
+      "captions": "avatar",
+      "youtubeUrl": "https://www.youtube.com/embed/JZ-JSZPoUi0",
+      "formatedDate": "12/12/2024, 1:50:50 PM",
+      "id": 12
+    },
+    {
+      "captions": "avatar",
+      "youtubeUrl": "https://www.youtube.com/embed/JZ-JSZPoUi0",
+      "formatedDate": "12/12/2024, 1:54:12 PM",
+      "id": 13
+    },
+    {
+      "captions": "ARM",
+      "youtubeUrl": "https://www.youtube.com/embed/EdsxhVLDLb4",
+      "formatedDate": "12/12/2024, 1:54:59 PM",
+      "id": 14
+    }
+  ]
+}
